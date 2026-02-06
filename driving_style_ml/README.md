@@ -398,7 +398,6 @@ This project is developed for academic purposes as part of a Bachelor's diploma 
 
 ---
 
-**Author:** [Your Name]
-**Supervisor:** [Supervisor Name]
-**Institution:** [University Name]
-**Date:** 2024
+**Author:** Latip Medet
+**Institution:** Astana IT UNiversity
+**Date:** 2026
