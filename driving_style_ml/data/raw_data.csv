@@ -1,0 +1,12 @@
+# Placeholder for raw driving data
+# Replace this file with your actual dataset
+#
+# Expected columns may include:
+# - acceleration_x, acceleration_y, acceleration_z
+# - gyroscope_x, gyroscope_y, gyroscope_z
+# - speed, bearing, accuracy
+# - harsh_braking_count, harsh_acceleration_count
+# - driving_style (safe/normal/aggressive/risky)
+# - accident (0/1)
+#
+# See src/config.py for expected feature groups
